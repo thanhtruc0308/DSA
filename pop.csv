@@ -1,4 +1,4 @@
-Year,Urbanpop,RuralPopulation,Totalpopulation,BirthRatePer1000,Newborn,PopulationGrowth %,GDPinUSD,GDPGrowth %
+Year,UrbanPopulation,RuralPopulation,TotalPopulation,BirthRatePer1000,Newborn,PopulationGrowth %,GDPinUSD,GDPGrowth %
 1962,5330493,29352914,34683407,41.05,1423754,,,
 1963,5613232,30107985,35721217,40.373,1442173,5.3,,
 1964,5908339,30871660,36779999,39.67,1459063,5.26,,
